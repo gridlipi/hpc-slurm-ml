@@ -1,0 +1,22 @@
+
+The following have been reloaded with a version change:
+  1) gcc/4.9.4-shared => gcc/6.2.0
+
+Using TensorFlow backend.
+('Keras version:', '2.2.2', '(version 2 or more required)')
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense_1 (Dense)              (None, 64)                6464      
+_________________________________________________________________
+activation_1 (Activation)    (None, 64)                0         
+_________________________________________________________________
+dense_2 (Dense)              (None, 10)                650       
+_________________________________________________________________
+activation_2 (Activation)    (None, 10)                0         
+=================================================================
+Total params: 7,114
+Trainable params: 7,114
+Non-trainable params: 0
+_________________________________________________________________
+None
